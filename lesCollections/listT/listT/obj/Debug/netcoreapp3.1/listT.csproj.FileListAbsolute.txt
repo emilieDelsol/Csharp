@@ -1,0 +1,13 @@
+C:\Users\MilhieWin\Documents\workspace\quetesCsharp\lesCollections\listT\listT\bin\Debug\netcoreapp3.1\listT.exe
+C:\Users\MilhieWin\Documents\workspace\quetesCsharp\lesCollections\listT\listT\bin\Debug\netcoreapp3.1\listT.deps.json
+C:\Users\MilhieWin\Documents\workspace\quetesCsharp\lesCollections\listT\listT\bin\Debug\netcoreapp3.1\listT.runtimeconfig.json
+C:\Users\MilhieWin\Documents\workspace\quetesCsharp\lesCollections\listT\listT\bin\Debug\netcoreapp3.1\listT.runtimeconfig.dev.json
+C:\Users\MilhieWin\Documents\workspace\quetesCsharp\lesCollections\listT\listT\bin\Debug\netcoreapp3.1\listT.dll
+C:\Users\MilhieWin\Documents\workspace\quetesCsharp\lesCollections\listT\listT\bin\Debug\netcoreapp3.1\listT.pdb
+C:\Users\MilhieWin\Documents\workspace\quetesCsharp\lesCollections\listT\listT\obj\Debug\netcoreapp3.1\listT.csprojAssemblyReference.cache
+C:\Users\MilhieWin\Documents\workspace\quetesCsharp\lesCollections\listT\listT\obj\Debug\netcoreapp3.1\listT.AssemblyInfoInputs.cache
+C:\Users\MilhieWin\Documents\workspace\quetesCsharp\lesCollections\listT\listT\obj\Debug\netcoreapp3.1\listT.AssemblyInfo.cs
+C:\Users\MilhieWin\Documents\workspace\quetesCsharp\lesCollections\listT\listT\obj\Debug\netcoreapp3.1\listT.csproj.CoreCompileInputs.cache
+C:\Users\MilhieWin\Documents\workspace\quetesCsharp\lesCollections\listT\listT\obj\Debug\netcoreapp3.1\listT.dll
+C:\Users\MilhieWin\Documents\workspace\quetesCsharp\lesCollections\listT\listT\obj\Debug\netcoreapp3.1\listT.pdb
+C:\Users\MilhieWin\Documents\workspace\quetesCsharp\lesCollections\listT\listT\obj\Debug\netcoreapp3.1\listT.genruntimeconfig.cache
