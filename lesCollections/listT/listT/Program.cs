@@ -24,7 +24,7 @@ namespace listT
             listString[0] = "Well done! :p";
             Console.Write("\n************" +
                 "\nJ'ai modifié la valeur de l'index 0: ");
-            listString.ForEach((String str) => Console.Write(str + " \n\n")
+            listString.ForEach((String value) => Console.Write(value + " \n\n")
        );
         }
     }
