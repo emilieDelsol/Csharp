@@ -7,25 +7,25 @@ namespace listT
         static void Main(string[] args)
         {
             Console.WriteLine("List<T>\n************\n");
-            List<char> listChar = new List<char>() {'a','b','c' };
+            List<string> listString = new List<string>() {"Hello ","world ","!!!" };
             Console.Write("La chaine de caractère complète est :");
-            foreach (char value in listChar) { Console.Write($" {value} "); }
+            foreach (string value in listString) { Console.Write($" {value} "); }
 
-            listChar.RemoveAt(0);
+            listString.RemoveAt(0);
             Console.Write("\n************" +
                 "\nJ'ai supprimé l'index 0:");
-            foreach (char value in listChar) { Console.Write($" {value} "); }
+            foreach (string value in listString) { Console.Write($" {value} "); }
 
-            listChar.Remove('c');
+            listString.Remove("!!!");
             Console.Write("\n************" +
-                "\nJ'ai supprimé la valeur c:");
-            foreach (char value in listChar) { Console.Write($" {value} "); }
+                "\nJ'ai supprimé : !!!:");
+            foreach (string value in listString) { Console.Write($" {value} "); }
 
-            listChar[0] = 'd';
+            listString[0] = "Well done! :p";
             Console.Write("\n************" +
-                "\nJ'ai modifié la valeur de l'index 0:");
-            foreach (char value in listChar) { Console.Write($" {value} "); }
-
+                "\nJ'ai modifié la valeur de l'index 0: ");
+            listString.ForEach((String str) => Console.Write(str + " \n\n")
+       );
         }
     }
 }
