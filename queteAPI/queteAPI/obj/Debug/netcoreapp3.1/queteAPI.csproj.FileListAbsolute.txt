@@ -1,0 +1,13 @@
+C:\Users\MilhieWin\Documents\workspace\quetesCsharp\queteAPI\queteAPI\bin\Debug\netcoreapp3.1\queteAPI.exe
+C:\Users\MilhieWin\Documents\workspace\quetesCsharp\queteAPI\queteAPI\bin\Debug\netcoreapp3.1\queteAPI.deps.json
+C:\Users\MilhieWin\Documents\workspace\quetesCsharp\queteAPI\queteAPI\bin\Debug\netcoreapp3.1\queteAPI.runtimeconfig.json
+C:\Users\MilhieWin\Documents\workspace\quetesCsharp\queteAPI\queteAPI\bin\Debug\netcoreapp3.1\queteAPI.runtimeconfig.dev.json
+C:\Users\MilhieWin\Documents\workspace\quetesCsharp\queteAPI\queteAPI\bin\Debug\netcoreapp3.1\queteAPI.dll
+C:\Users\MilhieWin\Documents\workspace\quetesCsharp\queteAPI\queteAPI\bin\Debug\netcoreapp3.1\queteAPI.pdb
+C:\Users\MilhieWin\Documents\workspace\quetesCsharp\queteAPI\queteAPI\obj\Debug\netcoreapp3.1\queteAPI.csprojAssemblyReference.cache
+C:\Users\MilhieWin\Documents\workspace\quetesCsharp\queteAPI\queteAPI\obj\Debug\netcoreapp3.1\queteAPI.AssemblyInfoInputs.cache
+C:\Users\MilhieWin\Documents\workspace\quetesCsharp\queteAPI\queteAPI\obj\Debug\netcoreapp3.1\queteAPI.AssemblyInfo.cs
+C:\Users\MilhieWin\Documents\workspace\quetesCsharp\queteAPI\queteAPI\obj\Debug\netcoreapp3.1\queteAPI.csproj.CoreCompileInputs.cache
+C:\Users\MilhieWin\Documents\workspace\quetesCsharp\queteAPI\queteAPI\obj\Debug\netcoreapp3.1\queteAPI.dll
+C:\Users\MilhieWin\Documents\workspace\quetesCsharp\queteAPI\queteAPI\obj\Debug\netcoreapp3.1\queteAPI.pdb
+C:\Users\MilhieWin\Documents\workspace\quetesCsharp\queteAPI\queteAPI\obj\Debug\netcoreapp3.1\queteAPI.genruntimeconfig.cache
