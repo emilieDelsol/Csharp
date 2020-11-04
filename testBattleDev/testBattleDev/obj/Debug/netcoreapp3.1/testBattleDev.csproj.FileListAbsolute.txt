@@ -1,0 +1,13 @@
+C:\Users\MilhieWin\source\repos\testBattleDev\testBattleDev\obj\Debug\netcoreapp3.1\testBattleDev.csprojAssemblyReference.cache
+C:\Users\MilhieWin\source\repos\testBattleDev\testBattleDev\obj\Debug\netcoreapp3.1\testBattleDev.AssemblyInfoInputs.cache
+C:\Users\MilhieWin\source\repos\testBattleDev\testBattleDev\obj\Debug\netcoreapp3.1\testBattleDev.AssemblyInfo.cs
+C:\Users\MilhieWin\source\repos\testBattleDev\testBattleDev\obj\Debug\netcoreapp3.1\testBattleDev.csproj.CoreCompileInputs.cache
+C:\Users\MilhieWin\source\repos\testBattleDev\testBattleDev\bin\Debug\netcoreapp3.1\testBattleDev.exe
+C:\Users\MilhieWin\source\repos\testBattleDev\testBattleDev\bin\Debug\netcoreapp3.1\testBattleDev.deps.json
+C:\Users\MilhieWin\source\repos\testBattleDev\testBattleDev\bin\Debug\netcoreapp3.1\testBattleDev.runtimeconfig.json
+C:\Users\MilhieWin\source\repos\testBattleDev\testBattleDev\bin\Debug\netcoreapp3.1\testBattleDev.runtimeconfig.dev.json
+C:\Users\MilhieWin\source\repos\testBattleDev\testBattleDev\bin\Debug\netcoreapp3.1\testBattleDev.dll
+C:\Users\MilhieWin\source\repos\testBattleDev\testBattleDev\bin\Debug\netcoreapp3.1\testBattleDev.pdb
+C:\Users\MilhieWin\source\repos\testBattleDev\testBattleDev\obj\Debug\netcoreapp3.1\testBattleDev.dll
+C:\Users\MilhieWin\source\repos\testBattleDev\testBattleDev\obj\Debug\netcoreapp3.1\testBattleDev.pdb
+C:\Users\MilhieWin\source\repos\testBattleDev\testBattleDev\obj\Debug\netcoreapp3.1\testBattleDev.genruntimeconfig.cache
