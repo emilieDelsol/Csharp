@@ -4,42 +4,38 @@ namespace queteEntityFrameWorkCodeFirst
 {
     public class SavingCalculator
     {
-        public Double CalculateTotalSaved(DateTime begin, DateTime end, SavingAccount savingAccount)
+        public Double CalculateTotalSaved(DateTime begin, DateTime end, SavingAccount savingAccount, string rateCalc)
         {
+
             int beginYear = begin.Year;
             int endYear = end.Year;
 
             int numberOfYears = endYear - beginYear;
 
-            return Formule(savingAccount.Funds, savingAccount.SavingsRate, numberOfYears);
+            return Formule(savingAccount.Funds, savingAccount.SavingsRate, numberOfYears, rateCalc);
         }
 
-        public Double Formule(double initialDeposit , double savingRate, int years)
+        public Double Formule(double initialDeposit , double savingRate, int years, string rateCalc)
         {
-            int periodeInteret = years ;
-/*            Double result = Math.Pow((1000 * (1 + savingRate / (double)periodeInteret / 100)), (years * (double)periodeInteret));
-*/            double calc = initialDeposit;
+            int periodeInteret;
+            if (rateCalc=="mois")
+            {
+                periodeInteret = years*12;
+            }
+            else
+            {
+                periodeInteret = years;
+            }
+            
+            double calc = initialDeposit;
             for (int i = 1; i <= periodeInteret; i++)
             {
-                calc = calc + calc * savingRate;
+                calc = calc + calc * savingRate/100;
             }
             return calc;
       
         }
 
-        public void Test()
-        {
-
-        }
-        public double CalculateTotalSaved(double Rate, double Amount, int year)
-        {
-            double calc = Amount;
-            for (int i = 1; i <= year; i++)
-            {
-                calc = calc + calc * Rate;
-            }
-            return calc;
-        } 
 
     }
 }
