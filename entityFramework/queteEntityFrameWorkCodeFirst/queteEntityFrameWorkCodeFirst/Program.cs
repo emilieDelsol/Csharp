@@ -10,8 +10,7 @@ namespace queteEntityFrameWorkCodeFirst
        
         static void Main()
         {
-            MessageBox.Show("Hello, world !", "Useless message box",
-                    MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+         
 
             using (var context = new MrRichardAccountContext())
             {
@@ -42,42 +41,13 @@ namespace queteEntityFrameWorkCodeFirst
 
             Console.WriteLine(Convert.ToString(calcul));
 
-            Console.ReadLine();
+            MessageBox.Show($"{calcul}", "Useless message box",
+                     MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
         }
 
         
     }
 
-    /*
-        class ShopContext : DbContext
-        {
-            // Product entites can be accessed by this context
-            public virtual DbSet<Product> Products { get; set; }
-            // Shop entities can be accessed by this context
-            public virtual DbSet<Shop> Shops { get; set; }
-
-            // OnConfiguring is a hook that executes while the context configures itself
-            protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-            {
-                // I add a connection to a database instance while the context configures
-                optionsBuilder.UseSqlServer(
-                    @"Server=LOCALHOST\SQLEXPRESS;Database=Shop;Integrated Security=True");
-            }
-        }
-
-        public class Shop
-        {
-            public Guid ShopId { get; set; }
-            public String City { get; set; }
-            public ICollection<Product> Products { get; set; }
-        }
-
-        public class Product
-        {
-            public Guid ProductId { get; set; }
-            public Double Price { get; set; }
-            public String Name { get; set; }
-        }
-    */
+  
 
 }
