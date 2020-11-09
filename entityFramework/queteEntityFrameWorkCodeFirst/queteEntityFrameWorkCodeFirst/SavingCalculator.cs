@@ -16,7 +16,7 @@ namespace queteEntityFrameWorkCodeFirst
 
         public Double Formule(double initialDeposit , double savingRate, int years)
         {
-            int periodeInteret = years * 12;
+            int periodeInteret = years ;
 /*            Double result = Math.Pow((1000 * (1 + savingRate / (double)periodeInteret / 100)), (years * (double)periodeInteret));
 */            double calc = initialDeposit;
             for (int i = 1; i <= periodeInteret; i++)

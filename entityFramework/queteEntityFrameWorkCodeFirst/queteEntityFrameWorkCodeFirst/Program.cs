@@ -23,9 +23,9 @@ namespace queteEntityFrameWorkCodeFirst
                 };
                 person.SavingAccounts = new List<SavingAccount>
                 {
-                    new SavingAccount { Funds=2000000, SavingsRate= 1.05},
-                    new SavingAccount{Funds=250000,SavingsRate= 1.15},
-                    new SavingAccount{Funds=10000000,SavingsRate= 1.02}
+                    new SavingAccount { Funds=2000000, SavingsRate= 0.05},
+                    new SavingAccount{Funds=250000,SavingsRate= 0.15},
+                    new SavingAccount{Funds=10000000,SavingsRate= 0.02}
                     
                 };
 
@@ -37,8 +37,8 @@ namespace queteEntityFrameWorkCodeFirst
             }
             SavingCalculator savingCalculator = new SavingCalculator();
 
-            double calcul =savingCalculator.Formule(2000000,1.05, 3);
-
+            double calcul =savingCalculator.Formule(250000,0.15, 3);
+            
             Console.WriteLine(Convert.ToString(calcul));
 
             MessageBox.Show($"{calcul}", "Useless message box",
