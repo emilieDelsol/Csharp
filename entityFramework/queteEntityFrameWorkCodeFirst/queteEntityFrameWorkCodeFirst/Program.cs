@@ -49,7 +49,7 @@ namespace queteEntityFrameWorkCodeFirst
                     int endYear = dateEnd.Year;
 
                     int numberOfYears = endYear - beginYear;
-                    MessageBox.Show($"Pour un montant initial de {savingAccount.Funds}, \nun taux de {savingAccount.SavingsRate}% par {savingAccount.rateCalc} \n au bout de {numberOfYears} ans le total de l'épargne est de {calculTotal}", "Useless message box",
+                    MessageBox.Show($"Pour un montant initial de {savingAccount.Funds}  \nun taux de {savingAccount.SavingsRate}% par {savingAccount.rateCalc} \n au bout de {numberOfYears} ans le total de l'épargne est de {calculTotal}", "Useless message box",
                          MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                     Console.WriteLine(calculTotal);
 
