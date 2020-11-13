@@ -9,9 +9,8 @@ namespace entityframeworkLinq
         public virtual DbSet<Specie> Specie { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            // I add a connection to a database instance while the context configures
             optionsBuilder.UseSqlServer(
-                @"Server=LOCALHOST\SQLEXPRESS;Database=EntityLinqQuest;Integrated Security=True");
+                @"Server=LOCALHOST\SQLEXPRESS;Database=EntityLinqQuest;Integrated Security=True;MultipleActiveResultSets=True");
         }
     }
 }
