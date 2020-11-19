@@ -6,6 +6,6 @@ namespace entityframeworkLinq
     {
         public Guid AnimalID { get; set; }
         public string AnimalName { get; set; }
-        public  Specie Specie { get; set; }
+        public  Specie SpecieId { get; set; }
     }
 }

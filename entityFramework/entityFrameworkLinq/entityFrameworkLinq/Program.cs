@@ -12,7 +12,12 @@ namespace entityframeworkLinq
         {
             CreateDatabase();
             AnimalDatabaseContext context = new AnimalDatabaseContext();
-            foreach(Specie specie in context.Specie.Include(s =>s.Animals))
+            foreach (Specie specie in context.Specie)
+            {
+                MessageBox.Show($"test {specie.SpecieName}", "Useless message box",
+                                                MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+            }
+                foreach (Specie specie in context.Specie.Include(s =>s.Animals))
             {
                 MessageBox.Show($"There is: \n \t{specie.Animals.Count()}  \n\t {specie.SpecieName}", "Useless message box",
                       MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
