@@ -23,17 +23,11 @@ namespace queteIntergiciels
             // Adding a custom middleware
             app.Use(async (context, next) =>
             {
-                // Here goes the custom middleware post-reception behavior
-                var allowString = context.Request.Query["allow"];
-                if ((allowString==""))
+                if (context.Request.Query.ContainsKey("allow"))
                 {
                     await next();
                 }
-                else
-                {
-                    throw new Exception();
-                }
-                // Here goes the custom middleware post-treatment behavior
+             
             });
             
             app.Run(async context =>
