@@ -23,9 +23,13 @@ namespace queteIntergiciels
             // Adding a custom middleware
             app.Use(async (context, next) =>
             {
-                if (context.Request.Query.ContainsKey("allow"))
+                if (!context.Request.Query.ContainsKey("allow"))
                 {
-                    await next();
+                    await context.Response.WriteAsync("wrong parameter! enter allow please!!");
+                }
+                else
+                {
+                    await next.Invoke();
                 }
              
             });
