@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7udP4FwCn+SaY4Y/lmBBKj3hegQc19NI4Na4je30NKSrmMcQhIiDwCI29EaPq03SZmneTVyFydEc97p8XGIOUg==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\wild\\workSpace\\quetesCsharp\\ASP.NET\\HelloController\\HelloController\\HelloController.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MilhieWin\\.nuget\\packages\\rick.docs.samples.routeinfo\\1.0.0.4\\rick.docs.samples.routeinfo.1.0.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

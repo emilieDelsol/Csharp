@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Rick.Docs.Samples.RouteInfo/1.0.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.Docs.Samples.RouteInfo.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Docs.Samples.RouteInfo.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Rick.Docs.Samples.RouteInfo/1.0.0.4": {
+      "sha512": "UZWAKDz1UMOYR5EzjgUH+y8N87Q8q6WZr7JZ9fKrtZTzzJPE0e7UVRq0zYaxca6zKBzMzyNc0wPYYPhkgkf4qg==",
+      "type": "package",
+      "path": "rick.docs.samples.routeinfo/1.0.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netcoreapp3.1/Microsoft.Docs.Samples.RouteInfo.dll",
+        "rick.docs.samples.routeinfo.1.0.0.4.nupkg.sha512",
+        "rick.docs.samples.routeinfo.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Rick.Docs.Samples.RouteInfo >= 1.0.0.4"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\MilhieWin\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Documents\\wild\\workSpace\\quetesCsharp\\ASP.NET\\HelloController\\HelloController\\HelloController.csproj",
+      "projectName": "HelloController",
+      "projectPath": "D:\\Documents\\wild\\workSpace\\quetesCsharp\\ASP.NET\\HelloController\\HelloController\\HelloController.csproj",
+      "packagesPath": "C:\\Users\\MilhieWin\\.nuget\\packages\\",
+      "outputPath": "D:\\Documents\\wild\\workSpace\\quetesCsharp\\ASP.NET\\HelloController\\HelloController\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\MilhieWin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "Rick.Docs.Samples.RouteInfo": {
+            "target": "Package",
+            "version": "[1.0.0.4, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
