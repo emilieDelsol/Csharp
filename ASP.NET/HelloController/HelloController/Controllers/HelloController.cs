@@ -8,23 +8,18 @@ using System.Threading.Tasks;
 
 namespace HelloController.Controllers
 {
-    public class HelloController : ControllerBase
+    public class Hello2Controller
     {
-        [Route("hello/Say")]
-        [Route("hello/{action}")]
-
-        public String SayHello()
+        [Route("/Say")]
+        public String SayAHello()
         {
-            return "Hello !";
-        }
-        [Route("hello/Yell")]
-        [Route("hello/{action}")]
-
-        public String YellHello()
-        {
-            return "HELLO !";
+            return "Hello via attribut !";
         }
 
-        
+        [Route("/Yell")]
+        public String YellAHello()
+        {
+            return "HELLO VIA ATTRIBUT !";
+        }
     }
 }
