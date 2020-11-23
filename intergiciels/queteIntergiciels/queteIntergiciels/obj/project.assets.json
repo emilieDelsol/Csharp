@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MilhieWin\\Documents\\workspace\\quetesCsharp\\intergiciels\\queteIntergiciels\\queteIntergiciels\\queteIntergiciels.csproj",
+      "projectUniqueName": "D:\\Documents\\wild\\workSpace\\quetesCsharp\\intergiciels\\queteIntergiciels\\queteIntergiciels\\queteIntergiciels.csproj",
       "projectName": "queteIntergiciels",
-      "projectPath": "C:\\Users\\MilhieWin\\Documents\\workspace\\quetesCsharp\\intergiciels\\queteIntergiciels\\queteIntergiciels\\queteIntergiciels.csproj",
+      "projectPath": "D:\\Documents\\wild\\workSpace\\quetesCsharp\\intergiciels\\queteIntergiciels\\queteIntergiciels\\queteIntergiciels.csproj",
       "packagesPath": "C:\\Users\\MilhieWin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MilhieWin\\Documents\\workspace\\quetesCsharp\\intergiciels\\queteIntergiciels\\queteIntergiciels\\obj\\",
+      "outputPath": "D:\\Documents\\wild\\workSpace\\quetesCsharp\\intergiciels\\queteIntergiciels\\queteIntergiciels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -37,6 +37,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -48,6 +49,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -66,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

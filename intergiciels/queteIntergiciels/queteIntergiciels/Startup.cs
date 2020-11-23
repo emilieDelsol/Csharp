@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
@@ -15,36 +16,25 @@ namespace queteIntergiciels
 {
     public class Startup
     {
-        public Startup(IConfiguration configuration)
-        {
-            Configuration = configuration;
-        }
 
-        public IConfiguration Configuration { get; }
-
-        // This method gets called by the runtime. Use this method to add services to the container.
-        public void ConfigureServices(IServiceCollection services)
-        {
-            services.AddControllers();
-        }
-
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            if (env.IsDevelopment())
+            app.UseHttpsRedirection(); // Harden the security with HTTPS enforcing
+            // Adding a custom middleware
+            app.Use(async (context, next) =>
             {
-                app.UseDeveloperExceptionPage();
-            }
-
-            app.UseHttpsRedirection();
-
-            app.UseRouting();
-
-            app.UseAuthorization();
-
-            app.UseEndpoints(endpoints =>
+                // Here goes the custom middleware post-reception behavior
+                var allowString = context.Request.Query["allow"];
+                if ((allowString==""))
+                {
+                    await next();
+                }
+                // Here goes the custom middleware post-treatment behavior
+            });
+            
+            app.Run(async context =>
             {
-                endpoints.MapControllers();
+                await context.Response.WriteAsync("Hello, World !");
             });
         }
     }

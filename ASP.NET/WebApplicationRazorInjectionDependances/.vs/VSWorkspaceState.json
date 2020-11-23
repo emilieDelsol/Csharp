@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\WebApplicationRazorInjectionDependances"
+    "\\WebApplicationRazorInjectionDependances",
+    "\\WebApplicationRazorInjectionDependances\\Pages",
+    "\\WebApplicationRazorInjectionDependances\\Properties",
+    "\\WebApplicationRazorInjectionDependances\\wwwroot\\lib\\bootstrap\\dist",
+    "\\WebApplicationRazorInjectionDependances\\wwwroot\\lib\\bootstrap\\dist\\css"
   ],
-  "SelectedNode": "\\WebApplicationRazorInjectionDependances.sln",
+  "SelectedNode": "\\WebApplicationRazorInjectionDependances\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
