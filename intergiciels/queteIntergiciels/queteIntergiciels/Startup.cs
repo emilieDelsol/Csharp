@@ -29,6 +29,10 @@ namespace queteIntergiciels
                 {
                     await next();
                 }
+                else
+                {
+                    throw new Exception();
+                }
                 // Here goes the custom middleware post-treatment behavior
             });
             
