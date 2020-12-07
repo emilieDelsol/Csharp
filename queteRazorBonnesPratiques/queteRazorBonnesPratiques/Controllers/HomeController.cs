@@ -22,9 +22,19 @@ namespace queteRazorBonnesPratiques.Controllers
 		{
 			IEnumerable<Int32> salary = new Int32[] { 1500, 1500, 1600, 1700, 1000, 1700, 1200 ,1100, 1400, 1600, 1500, 1500 };
 			Int32 sum = salary.Sum();
+			String conclusion ;
+			if (sum > 10000000)
+			{
+				conclusion = "You earn too much money";
+			}
+			else
+			{
+				conclusion = "You should ask for a salary raise";
+			}
+			return View("Index",conclusion);
 
-			return View(sum);
 		}
+
 
 		public IActionResult Privacy()
 		{
