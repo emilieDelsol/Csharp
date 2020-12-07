@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model Int32;
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@{
+    String conclusion = String.Empty;
+    if (Model > 10000000)
+    {
+        conclusion = "You earn too much money";
+    }
+    else
+    {
+        conclusion = "You should ask for a salary raise";
+    }
+}
+
+<div class="container">
+   <p> Your total salary is @Model
+    <br />
+    @conclusion
+    </p>
+</div>
