@@ -1,0 +1,13 @@
+D:\Documents\wild\workSpace\quetesCsharp\dojo\DojoTddBowling\DojoTddBowling\bin\Debug\netcoreapp3.1\DojoTddBowling.exe
+D:\Documents\wild\workSpace\quetesCsharp\dojo\DojoTddBowling\DojoTddBowling\bin\Debug\netcoreapp3.1\DojoTddBowling.deps.json
+D:\Documents\wild\workSpace\quetesCsharp\dojo\DojoTddBowling\DojoTddBowling\bin\Debug\netcoreapp3.1\DojoTddBowling.runtimeconfig.json
+D:\Documents\wild\workSpace\quetesCsharp\dojo\DojoTddBowling\DojoTddBowling\bin\Debug\netcoreapp3.1\DojoTddBowling.runtimeconfig.dev.json
+D:\Documents\wild\workSpace\quetesCsharp\dojo\DojoTddBowling\DojoTddBowling\bin\Debug\netcoreapp3.1\DojoTddBowling.dll
+D:\Documents\wild\workSpace\quetesCsharp\dojo\DojoTddBowling\DojoTddBowling\bin\Debug\netcoreapp3.1\DojoTddBowling.pdb
+D:\Documents\wild\workSpace\quetesCsharp\dojo\DojoTddBowling\DojoTddBowling\obj\Debug\netcoreapp3.1\DojoTddBowling.csprojAssemblyReference.cache
+D:\Documents\wild\workSpace\quetesCsharp\dojo\DojoTddBowling\DojoTddBowling\obj\Debug\netcoreapp3.1\DojoTddBowling.AssemblyInfoInputs.cache
+D:\Documents\wild\workSpace\quetesCsharp\dojo\DojoTddBowling\DojoTddBowling\obj\Debug\netcoreapp3.1\DojoTddBowling.AssemblyInfo.cs
+D:\Documents\wild\workSpace\quetesCsharp\dojo\DojoTddBowling\DojoTddBowling\obj\Debug\netcoreapp3.1\DojoTddBowling.csproj.CoreCompileInputs.cache
+D:\Documents\wild\workSpace\quetesCsharp\dojo\DojoTddBowling\DojoTddBowling\obj\Debug\netcoreapp3.1\DojoTddBowling.dll
+D:\Documents\wild\workSpace\quetesCsharp\dojo\DojoTddBowling\DojoTddBowling\obj\Debug\netcoreapp3.1\DojoTddBowling.pdb
+D:\Documents\wild\workSpace\quetesCsharp\dojo\DojoTddBowling\DojoTddBowling\obj\Debug\netcoreapp3.1\DojoTddBowling.genruntimeconfig.cache
