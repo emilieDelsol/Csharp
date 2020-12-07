@@ -1,0 +1,36 @@
+﻿
+@model IEnumerable<Expenditure>;
+
+    @{
+        ViewData["Title"] = "index";
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+
+    <h1>Expenditures</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>
+                    Spent Name
+                </th>
+                <th>
+                    Spent Date
+                </th>
+                <th>
+                    Spent Price
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var expenditure in Model)
+            {
+                <tr>
+                    <td>@expenditure.spentName</td>
+                    <td>@expenditure.spentDate</td>
+                    <td>@expenditure.spentPrice</td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
