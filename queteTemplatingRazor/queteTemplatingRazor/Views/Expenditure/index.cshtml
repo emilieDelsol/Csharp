@@ -31,6 +31,17 @@
                     <td>@expenditure.spentPrice</td>
                 </tr>
             }
+        <tr>
+            @{
+                int total = 0;
+            }
+            @foreach (var expend in Model)
+            {
+                total = total + expend.spentPrice;
+            }
+            <th colspan="2">Total</th>
+            <th>@total</th>
+        </tr>
 
         </tbody>
     </table>
