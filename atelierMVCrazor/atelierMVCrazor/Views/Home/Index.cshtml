@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model IEnumerable<Int32>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<table class="table text-center">
+    <thead>
+        <tr>
+            <th>Montant</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (Int32 value in Model)
+        {
+            <tr>
+                <td>@value</td>
+                <td ></td>
+            </tr>
+        }
+    <tr>
+        <td></td>
+        <td>@Model.Sum()</td>
+    </tr>
+            
+
+    </tbody>
+    
+</table>
