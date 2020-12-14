@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QSSDVoVudtfxXtxYjX3Jp3GhrySilzp6Ygd859omr9nbWdHrd2gt4jYDMcOLEBekSllue2AafUtdU1D2Ne3jSQ==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\wild\\workSpace\\quetesCsharp\\ConsoleAppQueteResFull\\ConsoleAppQueteResFull\\ConsoleAppQueteResFull.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MilhieWin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

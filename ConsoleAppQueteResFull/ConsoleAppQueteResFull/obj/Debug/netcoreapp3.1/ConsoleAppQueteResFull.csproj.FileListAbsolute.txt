@@ -1,0 +1,15 @@
+D:\Documents\wild\workSpace\quetesCsharp\ConsoleAppQueteResFull\ConsoleAppQueteResFull\bin\Debug\netcoreapp3.1\ConsoleAppQueteResFull.exe
+D:\Documents\wild\workSpace\quetesCsharp\ConsoleAppQueteResFull\ConsoleAppQueteResFull\bin\Debug\netcoreapp3.1\ConsoleAppQueteResFull.deps.json
+D:\Documents\wild\workSpace\quetesCsharp\ConsoleAppQueteResFull\ConsoleAppQueteResFull\bin\Debug\netcoreapp3.1\ConsoleAppQueteResFull.runtimeconfig.json
+D:\Documents\wild\workSpace\quetesCsharp\ConsoleAppQueteResFull\ConsoleAppQueteResFull\bin\Debug\netcoreapp3.1\ConsoleAppQueteResFull.runtimeconfig.dev.json
+D:\Documents\wild\workSpace\quetesCsharp\ConsoleAppQueteResFull\ConsoleAppQueteResFull\bin\Debug\netcoreapp3.1\ConsoleAppQueteResFull.dll
+D:\Documents\wild\workSpace\quetesCsharp\ConsoleAppQueteResFull\ConsoleAppQueteResFull\bin\Debug\netcoreapp3.1\ConsoleAppQueteResFull.pdb
+D:\Documents\wild\workSpace\quetesCsharp\ConsoleAppQueteResFull\ConsoleAppQueteResFull\obj\Debug\netcoreapp3.1\ConsoleAppQueteResFull.csprojAssemblyReference.cache
+D:\Documents\wild\workSpace\quetesCsharp\ConsoleAppQueteResFull\ConsoleAppQueteResFull\obj\Debug\netcoreapp3.1\ConsoleAppQueteResFull.AssemblyInfoInputs.cache
+D:\Documents\wild\workSpace\quetesCsharp\ConsoleAppQueteResFull\ConsoleAppQueteResFull\obj\Debug\netcoreapp3.1\ConsoleAppQueteResFull.AssemblyInfo.cs
+D:\Documents\wild\workSpace\quetesCsharp\ConsoleAppQueteResFull\ConsoleAppQueteResFull\obj\Debug\netcoreapp3.1\ConsoleAppQueteResFull.csproj.CoreCompileInputs.cache
+D:\Documents\wild\workSpace\quetesCsharp\ConsoleAppQueteResFull\ConsoleAppQueteResFull\obj\Debug\netcoreapp3.1\ConsoleAppQueteResFull.dll
+D:\Documents\wild\workSpace\quetesCsharp\ConsoleAppQueteResFull\ConsoleAppQueteResFull\obj\Debug\netcoreapp3.1\ConsoleAppQueteResFull.pdb
+D:\Documents\wild\workSpace\quetesCsharp\ConsoleAppQueteResFull\ConsoleAppQueteResFull\obj\Debug\netcoreapp3.1\ConsoleAppQueteResFull.genruntimeconfig.cache
+D:\Documents\wild\workSpace\quetesCsharp\ConsoleAppQueteResFull\ConsoleAppQueteResFull\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Documents\wild\workSpace\quetesCsharp\ConsoleAppQueteResFull\ConsoleAppQueteResFull\obj\Debug\netcoreapp3.1\ConsoleAppQueteResFull.csproj.CopyComplete
