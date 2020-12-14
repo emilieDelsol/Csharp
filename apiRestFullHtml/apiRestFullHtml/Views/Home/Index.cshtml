@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+@using (Html.BeginForm("Index", "Blog"))
+{
+    //Champ texte de recherche
+    @Html.TextBox("userId")
+    //Input de validation (n'est pas généré par un programme d'assistance)
+    <input type="submit" value="Rechercher" />
+}
