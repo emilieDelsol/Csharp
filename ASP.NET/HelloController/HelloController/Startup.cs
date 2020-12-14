@@ -45,6 +45,7 @@ namespace HelloController
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapDefaultControllerRoute();
+
             });
         }
     }

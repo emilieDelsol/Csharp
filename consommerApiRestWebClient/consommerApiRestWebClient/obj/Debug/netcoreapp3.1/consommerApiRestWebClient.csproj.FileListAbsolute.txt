@@ -1,0 +1,13 @@
+D:\Documents\wild\workSpace\quetesCsharp\consommerApiRestWebClient\consommerApiRestWebClient\bin\Debug\netcoreapp3.1\consommerApiRestWebClient.exe
+D:\Documents\wild\workSpace\quetesCsharp\consommerApiRestWebClient\consommerApiRestWebClient\bin\Debug\netcoreapp3.1\consommerApiRestWebClient.deps.json
+D:\Documents\wild\workSpace\quetesCsharp\consommerApiRestWebClient\consommerApiRestWebClient\bin\Debug\netcoreapp3.1\consommerApiRestWebClient.runtimeconfig.json
+D:\Documents\wild\workSpace\quetesCsharp\consommerApiRestWebClient\consommerApiRestWebClient\bin\Debug\netcoreapp3.1\consommerApiRestWebClient.runtimeconfig.dev.json
+D:\Documents\wild\workSpace\quetesCsharp\consommerApiRestWebClient\consommerApiRestWebClient\bin\Debug\netcoreapp3.1\consommerApiRestWebClient.dll
+D:\Documents\wild\workSpace\quetesCsharp\consommerApiRestWebClient\consommerApiRestWebClient\bin\Debug\netcoreapp3.1\consommerApiRestWebClient.pdb
+D:\Documents\wild\workSpace\quetesCsharp\consommerApiRestWebClient\consommerApiRestWebClient\obj\Debug\netcoreapp3.1\consommerApiRestWebClient.csprojAssemblyReference.cache
+D:\Documents\wild\workSpace\quetesCsharp\consommerApiRestWebClient\consommerApiRestWebClient\obj\Debug\netcoreapp3.1\consommerApiRestWebClient.AssemblyInfoInputs.cache
+D:\Documents\wild\workSpace\quetesCsharp\consommerApiRestWebClient\consommerApiRestWebClient\obj\Debug\netcoreapp3.1\consommerApiRestWebClient.AssemblyInfo.cs
+D:\Documents\wild\workSpace\quetesCsharp\consommerApiRestWebClient\consommerApiRestWebClient\obj\Debug\netcoreapp3.1\consommerApiRestWebClient.csproj.CoreCompileInputs.cache
+D:\Documents\wild\workSpace\quetesCsharp\consommerApiRestWebClient\consommerApiRestWebClient\obj\Debug\netcoreapp3.1\consommerApiRestWebClient.dll
+D:\Documents\wild\workSpace\quetesCsharp\consommerApiRestWebClient\consommerApiRestWebClient\obj\Debug\netcoreapp3.1\consommerApiRestWebClient.pdb
+D:\Documents\wild\workSpace\quetesCsharp\consommerApiRestWebClient\consommerApiRestWebClient\obj\Debug\netcoreapp3.1\consommerApiRestWebClient.genruntimeconfig.cache
