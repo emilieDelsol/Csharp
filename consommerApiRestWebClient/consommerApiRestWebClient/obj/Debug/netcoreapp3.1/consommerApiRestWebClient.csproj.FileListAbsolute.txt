@@ -11,3 +11,5 @@ D:\Documents\wild\workSpace\quetesCsharp\consommerApiRestWebClient\consommerApiR
 D:\Documents\wild\workSpace\quetesCsharp\consommerApiRestWebClient\consommerApiRestWebClient\obj\Debug\netcoreapp3.1\consommerApiRestWebClient.dll
 D:\Documents\wild\workSpace\quetesCsharp\consommerApiRestWebClient\consommerApiRestWebClient\obj\Debug\netcoreapp3.1\consommerApiRestWebClient.pdb
 D:\Documents\wild\workSpace\quetesCsharp\consommerApiRestWebClient\consommerApiRestWebClient\obj\Debug\netcoreapp3.1\consommerApiRestWebClient.genruntimeconfig.cache
+D:\Documents\wild\workSpace\quetesCsharp\consommerApiRestWebClient\consommerApiRestWebClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Documents\wild\workSpace\quetesCsharp\consommerApiRestWebClient\consommerApiRestWebClient\obj\Debug\netcoreapp3.1\consommerApiRestWebClient.csproj.CopyComplete
