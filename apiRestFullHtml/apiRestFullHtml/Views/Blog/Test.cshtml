@@ -1,0 +1,51 @@
+﻿@model UserArticlesPhotos
+@{
+    ViewData["Title"] = "test";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Il y a @Model.Articles.Count articles: </h1>
+<div class="container-fluid">
+    @foreach (Article article in @Model.Articles)
+    {
+        <div class="card m-4 p-4">
+
+            <h1>@article.Post.Title</h1>
+            <p>@article.Post.Body</p>
+            <p>
+                <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+                    Click to see comments
+                </a>
+            </p>
+            <div class="collapse" id="collapseExample">
+                @foreach (var comment in @article.ListComments)
+                {
+                    <div class="card card-body">
+                        <p>@comment.Name à écrit:</p>
+                        <p>@comment.Body</p>
+                    </div>
+                }
+
+            </div>
+        </div>
+    }
+</div>
+<div class="container-fluid">
+    @foreach(UserAlbum userAlbum in Model.userAlbums)
+    {
+    <div>
+        <h2>Album n° @userAlbum.AlbumId il y a  @userAlbum.PhotosList.Count photos:</h2>
+
+        <div class="container-fluid d-flex justify-content-around flex-wrap">
+            @foreach (var photos in userAlbum.PhotosList)
+            {
+            <div>
+                <p> photo title: @photos.Title</p>
+                <p style="height:100px; width:100px; background-image:url(@photos.Url"> </p>
+            </div>
+            }
+        </div>
+    </div>
+    }
+</div>
+
