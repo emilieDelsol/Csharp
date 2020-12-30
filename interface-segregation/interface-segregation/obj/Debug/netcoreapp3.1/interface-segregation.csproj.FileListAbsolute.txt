@@ -1,0 +1,13 @@
+D:\Documents\wild\workSpace\quetesCsharp\interface-segregation\interface-segregation\bin\Debug\netcoreapp3.1\interface-segregation.exe
+D:\Documents\wild\workSpace\quetesCsharp\interface-segregation\interface-segregation\bin\Debug\netcoreapp3.1\interface-segregation.deps.json
+D:\Documents\wild\workSpace\quetesCsharp\interface-segregation\interface-segregation\bin\Debug\netcoreapp3.1\interface-segregation.runtimeconfig.json
+D:\Documents\wild\workSpace\quetesCsharp\interface-segregation\interface-segregation\bin\Debug\netcoreapp3.1\interface-segregation.runtimeconfig.dev.json
+D:\Documents\wild\workSpace\quetesCsharp\interface-segregation\interface-segregation\bin\Debug\netcoreapp3.1\interface-segregation.dll
+D:\Documents\wild\workSpace\quetesCsharp\interface-segregation\interface-segregation\bin\Debug\netcoreapp3.1\interface-segregation.pdb
+D:\Documents\wild\workSpace\quetesCsharp\interface-segregation\interface-segregation\obj\Debug\netcoreapp3.1\interface-segregation.csprojAssemblyReference.cache
+D:\Documents\wild\workSpace\quetesCsharp\interface-segregation\interface-segregation\obj\Debug\netcoreapp3.1\interface-segregation.AssemblyInfoInputs.cache
+D:\Documents\wild\workSpace\quetesCsharp\interface-segregation\interface-segregation\obj\Debug\netcoreapp3.1\interface-segregation.AssemblyInfo.cs
+D:\Documents\wild\workSpace\quetesCsharp\interface-segregation\interface-segregation\obj\Debug\netcoreapp3.1\interface-segregation.csproj.CoreCompileInputs.cache
+D:\Documents\wild\workSpace\quetesCsharp\interface-segregation\interface-segregation\obj\Debug\netcoreapp3.1\interface-segregation.dll
+D:\Documents\wild\workSpace\quetesCsharp\interface-segregation\interface-segregation\obj\Debug\netcoreapp3.1\interface-segregation.pdb
+D:\Documents\wild\workSpace\quetesCsharp\interface-segregation\interface-segregation\obj\Debug\netcoreapp3.1\interface-segregation.genruntimeconfig.cache
