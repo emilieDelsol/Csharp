@@ -1,0 +1,13 @@
+D:\Documents\wild\workSpace\quetesCsharp\Solid-Liskov\Solid-Liskov\bin\Debug\netcoreapp3.1\Solid-Liskov.exe
+D:\Documents\wild\workSpace\quetesCsharp\Solid-Liskov\Solid-Liskov\bin\Debug\netcoreapp3.1\Solid-Liskov.deps.json
+D:\Documents\wild\workSpace\quetesCsharp\Solid-Liskov\Solid-Liskov\bin\Debug\netcoreapp3.1\Solid-Liskov.runtimeconfig.json
+D:\Documents\wild\workSpace\quetesCsharp\Solid-Liskov\Solid-Liskov\bin\Debug\netcoreapp3.1\Solid-Liskov.runtimeconfig.dev.json
+D:\Documents\wild\workSpace\quetesCsharp\Solid-Liskov\Solid-Liskov\bin\Debug\netcoreapp3.1\Solid-Liskov.dll
+D:\Documents\wild\workSpace\quetesCsharp\Solid-Liskov\Solid-Liskov\bin\Debug\netcoreapp3.1\Solid-Liskov.pdb
+D:\Documents\wild\workSpace\quetesCsharp\Solid-Liskov\Solid-Liskov\obj\Debug\netcoreapp3.1\Solid-Liskov.csprojAssemblyReference.cache
+D:\Documents\wild\workSpace\quetesCsharp\Solid-Liskov\Solid-Liskov\obj\Debug\netcoreapp3.1\Solid-Liskov.AssemblyInfoInputs.cache
+D:\Documents\wild\workSpace\quetesCsharp\Solid-Liskov\Solid-Liskov\obj\Debug\netcoreapp3.1\Solid-Liskov.AssemblyInfo.cs
+D:\Documents\wild\workSpace\quetesCsharp\Solid-Liskov\Solid-Liskov\obj\Debug\netcoreapp3.1\Solid-Liskov.csproj.CoreCompileInputs.cache
+D:\Documents\wild\workSpace\quetesCsharp\Solid-Liskov\Solid-Liskov\obj\Debug\netcoreapp3.1\Solid-Liskov.dll
+D:\Documents\wild\workSpace\quetesCsharp\Solid-Liskov\Solid-Liskov\obj\Debug\netcoreapp3.1\Solid-Liskov.pdb
+D:\Documents\wild\workSpace\quetesCsharp\Solid-Liskov\Solid-Liskov\obj\Debug\netcoreapp3.1\Solid-Liskov.genruntimeconfig.cache
