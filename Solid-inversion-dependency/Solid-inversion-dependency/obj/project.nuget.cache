@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5e8U0QO1PztEvZZ69Hs8ZmQgmuvXKblT1ar1lZT0Gecd9s2S7qyFTrr2RODmq6M1FNt8/uNkEHsulh4e5x7g7Q==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\wild\\workSpace\\quetesCsharp\\Solid-inversion-dependency\\Solid-inversion-dependency\\Solid-inversion-dependency.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MilhieWin\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

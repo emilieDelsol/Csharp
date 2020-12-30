@@ -1,0 +1,17 @@
+D:\Documents\wild\workSpace\quetesCsharp\Solid-inversion-dependency\Solid-inversion-dependency\bin\Debug\netcoreapp3.1\Solid-inversion-dependency.exe
+D:\Documents\wild\workSpace\quetesCsharp\Solid-inversion-dependency\Solid-inversion-dependency\bin\Debug\netcoreapp3.1\Solid-inversion-dependency.deps.json
+D:\Documents\wild\workSpace\quetesCsharp\Solid-inversion-dependency\Solid-inversion-dependency\bin\Debug\netcoreapp3.1\Solid-inversion-dependency.runtimeconfig.json
+D:\Documents\wild\workSpace\quetesCsharp\Solid-inversion-dependency\Solid-inversion-dependency\bin\Debug\netcoreapp3.1\Solid-inversion-dependency.runtimeconfig.dev.json
+D:\Documents\wild\workSpace\quetesCsharp\Solid-inversion-dependency\Solid-inversion-dependency\bin\Debug\netcoreapp3.1\Solid-inversion-dependency.dll
+D:\Documents\wild\workSpace\quetesCsharp\Solid-inversion-dependency\Solid-inversion-dependency\bin\Debug\netcoreapp3.1\Solid-inversion-dependency.pdb
+D:\Documents\wild\workSpace\quetesCsharp\Solid-inversion-dependency\Solid-inversion-dependency\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Documents\wild\workSpace\quetesCsharp\Solid-inversion-dependency\Solid-inversion-dependency\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Documents\wild\workSpace\quetesCsharp\Solid-inversion-dependency\Solid-inversion-dependency\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Documents\wild\workSpace\quetesCsharp\Solid-inversion-dependency\Solid-inversion-dependency\obj\Debug\netcoreapp3.1\Solid-inversion-dependency.csprojAssemblyReference.cache
+D:\Documents\wild\workSpace\quetesCsharp\Solid-inversion-dependency\Solid-inversion-dependency\obj\Debug\netcoreapp3.1\Solid-inversion-dependency.AssemblyInfoInputs.cache
+D:\Documents\wild\workSpace\quetesCsharp\Solid-inversion-dependency\Solid-inversion-dependency\obj\Debug\netcoreapp3.1\Solid-inversion-dependency.AssemblyInfo.cs
+D:\Documents\wild\workSpace\quetesCsharp\Solid-inversion-dependency\Solid-inversion-dependency\obj\Debug\netcoreapp3.1\Solid-inversion-dependency.csproj.CoreCompileInputs.cache
+D:\Documents\wild\workSpace\quetesCsharp\Solid-inversion-dependency\Solid-inversion-dependency\obj\Debug\netcoreapp3.1\Solid-inversion-dependency.csproj.CopyComplete
+D:\Documents\wild\workSpace\quetesCsharp\Solid-inversion-dependency\Solid-inversion-dependency\obj\Debug\netcoreapp3.1\Solid-inversion-dependency.dll
+D:\Documents\wild\workSpace\quetesCsharp\Solid-inversion-dependency\Solid-inversion-dependency\obj\Debug\netcoreapp3.1\Solid-inversion-dependency.pdb
+D:\Documents\wild\workSpace\quetesCsharp\Solid-inversion-dependency\Solid-inversion-dependency\obj\Debug\netcoreapp3.1\Solid-inversion-dependency.genruntimeconfig.cache
