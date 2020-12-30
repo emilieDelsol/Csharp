@@ -8,8 +8,6 @@ namespace Solid_Liskov
 		{
             Square square = new Square { cote = 8 };
             Rectangle rectangle = new Rectangle { height = 10, width = 5 };
-            double areaRectangle = rectangle.Area();
-            double areaSquare = square.Area();
 
             Console.WriteLine($"Square area is: { square.Area()} \nRectangle area is:  { rectangle.Area()}");
         }
@@ -24,7 +22,7 @@ namespace Solid_Liskov
         {
             public override double Area()
             {
-                return width * height;
+                return width *2+ height*2;
             }
         }
         public class Square : Polygone
@@ -33,7 +31,7 @@ namespace Solid_Liskov
             public override double Area()
             {
                 height = width = cote;
-                return height *width; 
+                return width*4; 
             }
         }
     }
