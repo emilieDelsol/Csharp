@@ -1,0 +1,25 @@
+﻿@model Hero
+@{
+    ViewData["Title"] = "View";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Heroes</h1>
+
+
+<div class=" card">
+
+    <div>@Model.id</div>
+    <div>@Model.Name</div>
+    <div><img src="@Model.Image.Url" alt="super hero" /></div>
+    <h1>Decription</h1>
+    <p class="card-text">
+        Power stats:
+        <br />Combat:  @Model.Powerstats.combat
+        <br />Durability:  @Model.Powerstats.durability
+        <br />Intelligence: @Model.Powerstats.intelligence
+        <br />Power: @Model.Powerstats.power
+
+    </p>
+
+</div>

@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Hero>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Heroes</h1>
+
+<div class="card-deck">
+    @foreach(Hero hero in @Model)
+    {
+    <div class="card ">
+        <div class="d-flex">
+            <div>
+                <img class="card-img" src=" @hero.Image.Url" />
+            </div>
+            <div class="col-5">
+                <p>
+                    Name: @hero.Name
+                </p> 
+                <p>
+                    @hero.Biography.Publisher
+                </p>
+                <p>
+                   Place of birth:  @hero.Biography.PlaceOfBirth
+                </p>
+            </div>
+        </div>
+        <div class="card-footer">
+            <p>
+                durability:  @hero.Powerstats.durability
+            </p>
+            <p>
+                   power  @hero.Powerstats.power
+            </p>
+           <p>
+                intelligence: @hero.Powerstats.intelligence
+            </p>
+        </div>
+    </div>
+    }
+</div>
