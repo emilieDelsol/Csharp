@@ -36,10 +36,13 @@ namespace interface_segregation
     {
         void Drive(long miles);
     }
+    interface IRocketLaunchable
+    {
+        void LaunchRocket();
+    }
 
- 
 
-    class Car : IDrivable
+    class Car : IDrivable, IRocketLaunchable
     {
         public void Drive(long miles)
         {
@@ -52,7 +55,7 @@ namespace interface_segregation
         }
     }
 
-    class FlyingCar : IDrivable
+    class FlyingCar : IDrivable, IRocketLaunchable
     {
         private bool _isRocketLaunched;
 
@@ -74,7 +77,7 @@ namespace interface_segregation
         }
     }
 
-    class SpaceShip : IDrivable
+    class SpaceShip : IDrivable, IRocketLaunchable
     {
         private bool _isRocketLaunched;
 
