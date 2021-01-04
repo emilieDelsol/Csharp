@@ -29,7 +29,7 @@ namespace ReflexionCSharp
 		{
 			MethodInfo[] methods = _objectType.GetMethods(BindingFlags.NonPublic | BindingFlags.Instance);
 			Console.WriteLine("\n The method infos of reflected class are:");
-			foreach (var method in methods) { Console.WriteLine($"\n just method {method} \n\t Method name:  {method.Name} \n\t\t declaring type: {method.DeclaringType} \n\t\t return type: {method.ReturnType} \n\t\t attributes: {method.Attributes}\n\t\t Calling convention: {method.CallingConvention} \n\t\t Contains generic parameters:{method.ContainsGenericParameters}"); }
+			foreach (var method in methods) { Console.WriteLine($"\n just method {method} \n\t Method name:  {method.Name} \n\t\t declaring type: {method.DeclaringType} \n\t\t return type: {method.ReturnType} \n\t\t attributes: {method.Attributes}\n\t\t Calling convention: {method.CallingConvention} \n\t\t Is public:{method.IsPublic}"); }
 
 		}
 	}
