@@ -1,0 +1,13 @@
+D:\Documents\wild\workSpace\quetesCsharp\ReflexionCSharp\ReflexionCSharp\bin\Debug\netcoreapp3.1\ReflexionCSharp.exe
+D:\Documents\wild\workSpace\quetesCsharp\ReflexionCSharp\ReflexionCSharp\bin\Debug\netcoreapp3.1\ReflexionCSharp.deps.json
+D:\Documents\wild\workSpace\quetesCsharp\ReflexionCSharp\ReflexionCSharp\bin\Debug\netcoreapp3.1\ReflexionCSharp.runtimeconfig.json
+D:\Documents\wild\workSpace\quetesCsharp\ReflexionCSharp\ReflexionCSharp\bin\Debug\netcoreapp3.1\ReflexionCSharp.runtimeconfig.dev.json
+D:\Documents\wild\workSpace\quetesCsharp\ReflexionCSharp\ReflexionCSharp\bin\Debug\netcoreapp3.1\ReflexionCSharp.dll
+D:\Documents\wild\workSpace\quetesCsharp\ReflexionCSharp\ReflexionCSharp\bin\Debug\netcoreapp3.1\ReflexionCSharp.pdb
+D:\Documents\wild\workSpace\quetesCsharp\ReflexionCSharp\ReflexionCSharp\obj\Debug\netcoreapp3.1\ReflexionCSharp.csprojAssemblyReference.cache
+D:\Documents\wild\workSpace\quetesCsharp\ReflexionCSharp\ReflexionCSharp\obj\Debug\netcoreapp3.1\ReflexionCSharp.AssemblyInfoInputs.cache
+D:\Documents\wild\workSpace\quetesCsharp\ReflexionCSharp\ReflexionCSharp\obj\Debug\netcoreapp3.1\ReflexionCSharp.AssemblyInfo.cs
+D:\Documents\wild\workSpace\quetesCsharp\ReflexionCSharp\ReflexionCSharp\obj\Debug\netcoreapp3.1\ReflexionCSharp.csproj.CoreCompileInputs.cache
+D:\Documents\wild\workSpace\quetesCsharp\ReflexionCSharp\ReflexionCSharp\obj\Debug\netcoreapp3.1\ReflexionCSharp.dll
+D:\Documents\wild\workSpace\quetesCsharp\ReflexionCSharp\ReflexionCSharp\obj\Debug\netcoreapp3.1\ReflexionCSharp.pdb
+D:\Documents\wild\workSpace\quetesCsharp\ReflexionCSharp\ReflexionCSharp\obj\Debug\netcoreapp3.1\ReflexionCSharp.genruntimeconfig.cache
