@@ -1,6 +1,4 @@
 ﻿using System;
-using System.IO;
-using System.Text;
 
 namespace queteProgrammationEvenementielle
 {
@@ -13,9 +11,9 @@ namespace queteProgrammationEvenementielle
         public void OnLogSent(object sender, SendLogEventArgs args)
         {
             // When OnLogSent is called, it writes a log on the stream
-            HandleLogSent(args.Message, args.DateTime);
+            HandleLogSend(args.Message, args.DateTime);
         }
-        public void HandleLogSent(String message, DateTime? dateTime = null)
+        public void HandleLogSend(String message, DateTime? dateTime = null)
         {
             if (dateTime == null)
             {

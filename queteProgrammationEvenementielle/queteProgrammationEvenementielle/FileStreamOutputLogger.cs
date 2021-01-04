@@ -5,7 +5,7 @@ using System.Text;
 namespace queteProgrammationEvenementielle
 {
 	class FileStreamOutputLogger
-        {
+    {
 
             public void Subscribe(Program program)
             {
@@ -14,12 +14,12 @@ namespace queteProgrammationEvenementielle
 
             private void OnLogSent(object sender, SendLogEventArgs args)
             {
-                HandleLogSent(args.Message, args.DateTime);
+                HandleLogSend(args.Message, args.DateTime);
            
                 // When OnLogSent is called, it writes a log on the stream
             }
 
-            public void HandleLogSent(object message, object dateTime)
+            public void HandleLogSend(object message, object dateTime)
             {
                 if (dateTime == null)
                 {
@@ -30,8 +30,7 @@ namespace queteProgrammationEvenementielle
                 using (FileStream fs = File.Create(path))
                 {
                     AddText(fs, formattedMessage);
-
-            }
+                }
         }
 
 		private void AddText(FileStream fs, string value)
