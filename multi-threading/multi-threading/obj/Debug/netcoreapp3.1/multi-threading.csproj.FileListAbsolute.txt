@@ -1,0 +1,13 @@
+D:\Documents\wild\workSpace\quetesCsharp\multi-threading\multi-threading\obj\Debug\netcoreapp3.1\multi-threading.csprojAssemblyReference.cache
+D:\Documents\wild\workSpace\quetesCsharp\multi-threading\multi-threading\obj\Debug\netcoreapp3.1\multi-threading.AssemblyInfoInputs.cache
+D:\Documents\wild\workSpace\quetesCsharp\multi-threading\multi-threading\obj\Debug\netcoreapp3.1\multi-threading.AssemblyInfo.cs
+D:\Documents\wild\workSpace\quetesCsharp\multi-threading\multi-threading\obj\Debug\netcoreapp3.1\multi-threading.csproj.CoreCompileInputs.cache
+D:\Documents\wild\workSpace\quetesCsharp\multi-threading\multi-threading\bin\Debug\netcoreapp3.1\multi-threading.exe
+D:\Documents\wild\workSpace\quetesCsharp\multi-threading\multi-threading\bin\Debug\netcoreapp3.1\multi-threading.deps.json
+D:\Documents\wild\workSpace\quetesCsharp\multi-threading\multi-threading\bin\Debug\netcoreapp3.1\multi-threading.runtimeconfig.json
+D:\Documents\wild\workSpace\quetesCsharp\multi-threading\multi-threading\bin\Debug\netcoreapp3.1\multi-threading.runtimeconfig.dev.json
+D:\Documents\wild\workSpace\quetesCsharp\multi-threading\multi-threading\bin\Debug\netcoreapp3.1\multi-threading.dll
+D:\Documents\wild\workSpace\quetesCsharp\multi-threading\multi-threading\bin\Debug\netcoreapp3.1\multi-threading.pdb
+D:\Documents\wild\workSpace\quetesCsharp\multi-threading\multi-threading\obj\Debug\netcoreapp3.1\multi-threading.dll
+D:\Documents\wild\workSpace\quetesCsharp\multi-threading\multi-threading\obj\Debug\netcoreapp3.1\multi-threading.pdb
+D:\Documents\wild\workSpace\quetesCsharp\multi-threading\multi-threading\obj\Debug\netcoreapp3.1\multi-threading.genruntimeconfig.cache
