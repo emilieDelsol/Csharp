@@ -39,8 +39,6 @@ namespace multi_threading
             }
         }
 
-	
-
 		private static void OnThreadStart()
 		{
             var random = new System.Random();
@@ -51,7 +49,7 @@ namespace multi_threading
 
             Thread.Sleep(timeSpan); // Simulate computing by waiting a random period of time
      
-                UseResource();
+            UseResource();
     
         }        
 
