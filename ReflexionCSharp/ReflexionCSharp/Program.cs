@@ -9,11 +9,20 @@ namespace ReflexionCSharp
 	{
 		static void Main(string[] args)
 		{
+			
 			var reflected = new ReflectedClass();
-			var inspector = new InspectorClass(reflected);
+			Type reflectedType = reflected.GetType();
+			var inspector = new InspectorClass(reflectedType);
+			Console.WriteLine("This is inspector for reflected class: ");
 			inspector.GetAllProperties();
 			inspector.GetAllFields();
 			inspector.GetAllMethods();
+
+			var newClass = new NewClass();
+			Type typeNewClass = newClass.GetType();
+			var inspector2 = new InspectorClass(typeNewClass);
+			Console.WriteLine("This is inspector for NewClass class: ");
+			inspector2.GetAllProperties();
 		}
 	}
 }
