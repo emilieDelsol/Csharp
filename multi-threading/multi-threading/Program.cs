@@ -16,21 +16,18 @@ namespace multi_threading
             while (true)
             {
                 Console.WriteLine("\nNew game:");
-                var threadStartDelegate = new ThreadStart(OnThreadStart);
+                var threadStart = new ThreadStart(OnThreadStart);
                 var threads = new List<Thread>();
                 for (int i = 0; i < numThreads; i++)
                 {
-                    threads.Add(new Thread(threadStartDelegate));
-                }
-
-                for (int i = 0; i < threads.Count; i++)
-                {
+                    threads.Add(new Thread(threadStart));
                     threads[i].Name = $"{i + 1}";
                     threads[i].Start(); // We launch the threads
                 }
-                foreach (var t in threads)
+
+                foreach (var thread in threads)
                 {
-                    t.Join(); // We wait until all threads are finished
+                    thread.Join(); // We wait until all threads are finished
                 }
                 Console.WriteLine("Press Enter for new game:");
                 while (Console.ReadKey().Key != ConsoleKey.Enter)
